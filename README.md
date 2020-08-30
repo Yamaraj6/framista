@@ -1,4 +1,5 @@
 <h1 align="center"> Hi there! I'm Adrianna </h1>
+<h3 align="center"> jablonska.adrianna@wp.pl </h3>
 
 <a href="https://adajablonska.netlify.app/" target="_blank"><img src="https://github.com/framista/framista/blob/master/portfolio.jpg?raw=true" alt="portfolio"></a>
 
